@@ -1,0 +1,13 @@
+E:\dev\game1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\dev\game1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\dev\game1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\dev\game1\WindowsFormsApp1\bin\Release\game.dll
+E:\dev\game1\WindowsFormsApp1\bin\Release\game.pdb
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\dev\game1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

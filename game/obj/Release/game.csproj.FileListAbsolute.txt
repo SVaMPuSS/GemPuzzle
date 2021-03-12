@@ -1,0 +1,6 @@
+E:\dev\game1\game\bin\Release\game.dll
+E:\dev\game1\game\bin\Release\game.pdb
+E:\dev\game1\game\obj\Release\game.csprojAssemblyReference.cache
+E:\dev\game1\game\obj\Release\game.csproj.CoreCompileInputs.cache
+E:\dev\game1\game\obj\Release\game.dll
+E:\dev\game1\game\obj\Release\game.pdb
